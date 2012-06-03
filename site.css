@@ -1,6 +1,9 @@
 body { font-family: Helvetica, sans-serif; }
 #wrapper { margin: 0 auto; margin-top: 20px; width: 60%; }
 #header { font-family: Georgia, serif; color: grey; border-bottom: 5px solid #00cc00; padding-bottom: .5em; margin-bottom: 2em; text-transform: lowercase; text-align: right; }
-#content { border-bottom: 5px solid #e4e4e4; margin-bottom: 2em; }
+#content { border-bottom: 5px solid #e4e4e4; padding-bottom: 2em; margin-bottom: 2em; }
 #content p { line-height: 2em; margin-bottom: 2em; }
-#content p a { color: #009900; }
+#content a { color: #009900; text-decoration: none; }
+#content .list { float: left; width: 50%; }
+#content .list h4 { margin-bottom: 1.5em; }
+#content .list ul li { line-height: 1em; margin-bottom: 1em; }
