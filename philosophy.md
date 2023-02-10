@@ -1,6 +1,7 @@
 ---
 layout: default
 title: philosohpy
+published_at: 2023-02-09
 ---
 
 I'm a pragmatic, thoughtful, and empathetic software engineer.

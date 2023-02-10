@@ -14,8 +14,6 @@
     {% else %}
       <title>{{ site.title }}</title>
     {% endif %} 
-    
-    <!-- <link rel="stylesheet" href="{{ "/assets/css/reset.css" | relative_url }}"> -->
     <link rel="stylesheet" href="{{ "/assets/css/site.css" | relative_url }}">
   </head>
   <body>
@@ -27,8 +25,14 @@
           &nbsp;
         {% endif %}
       </h2>
+
     </div>
     <div id="content">
+      {% if page.published_at %}
+        <h4>
+          <em>{{ page.published_at }}</em>
+        </h4>
+      {% endif %}
       {{ content }}
     </div>
   </body>
