@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+
+<!-- O.o what are you doing back here?  Go on! Scram! -->
+
+<html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+    <meta name="description" content="Eoin Coffey, Software Engineer, Colorado">
+    <meta name=viewport content="width=device-width, initial-scale=1">
+    <meta name="google-site-verification" content="YRzZeKuDBPihZ8eMrVd1sm7skDosGvF4Wvc8f15qmd4" />
+    {% if page.title %}
+      <title>{{ page.title }} - {{ site.title }}</title>
+    {% else %}
+      <title>{{ site.title }}</title>
+    {% endif %} 
+    
+    <!-- <link rel="stylesheet" href="{{ "/assets/css/reset.css" | relative_url }}"> -->
+    <link rel="stylesheet" href="{{ "/assets/css/site.css" | relative_url }}">
+  </head>
+  <body>
+    <div id="header">
+      <h2>
+        {% if page.title %}
+          <a href="/">eoinisawesome</a> / {{ page.title }}
+        {% endif %}
+      </h2>
+    </div>
+    <div id="content">
+      {{ content }}
+    </div>
+  </body>
+</html>
