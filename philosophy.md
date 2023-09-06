@@ -38,7 +38,7 @@ driving a project, building consensus around an idea or implementation, etc with
 
 ### Architecture & Code
 
-All things in Software Engineering are about tradeoffs. Architecture and code are never finished, and are always changing in response to a diverse & dynamic set of constraints and needs. I really like the concept of [Innovation Tokens](https://mcfunley.com/choose-boring-technology) to help guide where it makes sense to invest your creativity and engineering in solving problems. I believe that when designing a system and implementing it in code it's important to balance between over-fitting to the immediate problem at end and making something so abstract it makes solving any problem more difficult in the short term.
+All things in Software Engineering are about tradeoffs. Architecture and code are never finished, and are always changing in response to a diverse & dynamic set of constraints and needs. I really like the concept of [Innovation Tokens](https://mcfunley.com/choose-boring-technology) to help guide where it makes sense to invest your creativity and engineering in solving problems. I believe that when designing a system and implementing it in code it's important to balance between over-fitting to the immediate problem at hand, and making something so abstract it makes solving any problem more difficult in the short term.
 
 ### Hiring and Interviewing
 
