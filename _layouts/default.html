@@ -27,12 +27,16 @@
       </h2>
       {% if page.published_at %}
         <h4>
-          <em>{{ page.published_at }}</em>
+          <em>
+            {{ page.published_at }} 
+            {% if page.updated_at %}
+              | (updated: {{ page.updated_at }})
+            {% endif %}
+          </em>
         </h4>
       {% endif %}
     </div>
     <div id="content">
-      
       {{ content }}
     </div>
   </body>

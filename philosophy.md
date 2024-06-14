@@ -2,6 +2,7 @@
 layout: default
 title: philosohpy
 published_at: 2023-02-09
+updated_at: 2024-06-13
 ---
 
 I'm a pragmatic, thoughtful, and empathetic software engineer.
@@ -37,6 +38,8 @@ Leadership as an Engineering IC can look like a lot of different things. I enjoy
 ### Architecture & Code
 
 All things in Software Engineering are about tradeoffs. Architecture and code are never finished, and are always changing in response to a diverse & dynamic set of constraints and needs. I really like the concept of [Innovation Tokens](https://mcfunley.com/choose-boring-technology) to help guide where it makes sense to invest your creativity and engineering in solving problems. I believe that when designing and implementing a system it is important to balance between over-fitting to the immediate problem at hand and making something so abstract it makes solving any problem more difficult in the short term.
+
+When it comes to actually building or extending systems I really like the [Steel Thread](https://www.rubick.com/steel-threads/) pattern for its ability to iteratively de-risk and prove out changes.
 
 ### Hiring and Interviewing
 
