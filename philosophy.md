@@ -2,7 +2,7 @@
 layout: default
 title: philosohpy
 published_at: 2023-02-09
-updated_at: 2024-06-13
+updated_at: 2024-07-01
 ---
 
 I'm a pragmatic, thoughtful, and empathetic software engineer.
@@ -25,7 +25,7 @@ I value:
 
 While the main output of a team is production software (be that in operating services, or shipping libraries), the goal of a team is to build and maintain the processes that produce that software consistently and sustainably. To that end I find it most helpful to think of Software Engineering as a team sport. For me that means trusting that my team mates are motivated by good intent, are open to learning and sharing feedback, and that we all are pulling in the same direction.
 
-It also means optimizing processes for the team instead of an individual. For example, the team is happy to slow down short term to onboard a new member, or get them ready for on-call, because it means long term the team will be more productive and stable. Or the team is willing to standardize on a tool or workflow because it builds shared context, and makes things like pairing easier. I'm also a fan of pairing as a great way to share knowledge, build common empathy and context, and most importantly share or learn things that you wouldn't plan on doing otherwise (e.g. "oh wow, wait how did you make the IDE do that?").
+It also means optimizing processes for the team instead of an individual. For example, the team is happy to slow down short term to onboard a new member, or get them ready for on-call, because it means long term the team will be more productive and stable. Or the team is willing to standardize on a tool or workflow because it builds shared context, and makes things like pairing easier. I'm also a fan of pairing as a great way to share knowledge, build common empathy and context, and most importantly share or learn things that you wouldn't plan on doing otherwise (e.g. "oh wow, wait how did you make the IDE do that?"). Of course, you do not want every decision to get bogged down in getting 100% buy-in so utilizing [disagree and commit](https://en.wikipedia.org/wiki/Disagree_and_commit) is another important tool.
 
 ### Ownership
 
