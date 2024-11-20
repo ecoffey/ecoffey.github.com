@@ -1,6 +1,6 @@
 ---
 layout: default
-title: philosohpy
+title: philosophy
 published_at: 2023-02-09
 updated_at: 2024-07-01
 ---
