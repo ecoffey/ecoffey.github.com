@@ -47,6 +47,8 @@ When it comes to actually building or extending systems I really like the [Steel
 
 In some ways LLMs are just another tool in the belt. However, they are one that shifts the emphasis of the engineer's role toward design, requirements gathering, and testing. LLM tooling can be a multiplier for your effectiveness, you just have to make sure you are bringing a value greater than 1 to multiply by.
 
+One useful function of LLMs is that they can generate an initial artifact for you to react to, or against, and help sidestep the "blank page" problem.
+
 These tools are great at removing _accidental_ friction, but it is important to recognize that not all friction is bad. Wrestling with a problem is what builds deeper understanding, and that understanding is what lets you bring the tool to bear effectively. I've had a lot of success using LLMs on codebases, in no small part because I spent a lot of time manually refactoring them and adding features, sweating the naming details and how an internal API should fit together. That investment paid off because the LLM could leverage the "language" I had already put in place.
 
 An open question I think about: these tools are especially valuable to me because of my industry experience. How do we, as an industry, ensure new software engineers also get that foundational experience so that they can responsibly leverage these new tools?
