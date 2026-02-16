@@ -25,10 +25,10 @@
           &nbsp;
         {% endif %}
       </h2>
-      {% if page.published_at %}
+      {% if page.published_at or page.date and page.layout == "post" %}
         <h4>
           <em>
-            {{ page.published_at }} 
+            {{ page.published_at | default: page.date | date: "%Y-%m-%d" }}
             {% if page.updated_at %}
               | (updated: {{ page.updated_at }})
             {% endif %}
@@ -39,5 +39,14 @@
     <div id="content">
       {{ content }}
     </div>
+    <script>
+      document.querySelectorAll('#content h2[id], #content h3[id]').forEach(function(h) {
+        var a = document.createElement('a');
+        a.href = '#' + h.id;
+        a.className = 'anchor-link';
+        a.textContent = '#';
+        h.appendChild(a);
+      });
+    </script>
   </body>
 </html>

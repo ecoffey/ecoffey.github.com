@@ -63,3 +63,21 @@ a { color: #009900; text-decoration: none; }
 	border-bottom: 5px solid #e4e4e4;
 	padding-bottom: 20px;
 }
+
+#content h2 .anchor-link,
+#content h3 .anchor-link {
+	opacity: 0;
+	margin-left: 0.3em;
+	font-weight: normal;
+	text-decoration: none;
+}
+
+#content h2:hover .anchor-link,
+#content h3:hover .anchor-link {
+	opacity: 0.4;
+}
+
+#content h2:hover .anchor-link:hover,
+#content h3:hover .anchor-link:hover {
+	opacity: 1;
+}

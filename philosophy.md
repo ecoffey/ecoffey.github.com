@@ -53,8 +53,10 @@ These tools are great at removing _accidental_ friction, but it is important to 
 
 An open question I think about: these tools are especially valuable to me because of my industry experience. How do we, as an industry, ensure new software engineers also get that foundational experience so that they can responsibly leverage these new tools?
 
+I've written more about how I use these tools in practice in [Agentic Coding]({% post_url 2026-02-16-agentic-coding %}).
+
 ### Hiring and Interviewing
 
 The goal of any interview process is to derive meaningful signal about a candidates ability to do the job. I believe the best way to get that signal is approaching the process with empathy & compassion for candidates, being rigorous about what specific signal actually is important (e.g does your team honestly have to write a lot of hash map implementations from scratch?), and being transparent with the candidate about what signal you are looking for. A good process should be set up in such a way to help the candidate succeed and give them every opportunity to demonstrate the signal you care about.
 
-I've expanded on my thoughts about hiring in [Thoughts on Hiring](hiring).
+I've expanded on my thoughts about hiring in [Thoughts on Hiring]({% post_url 2026-02-16-thoughts-on-hiring %}).

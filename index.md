@@ -8,7 +8,15 @@ I love writing code in Compositional and Functional styles, and my passion in so
 
 See [Philosophy]({{ "/philosophy.html" | relative_url }}) for more details about how I like to work.
 
-Other Links
+{% if site.posts.size > 0 %}
+**Posts**
+
+{% for post in site.posts %}
+* {{ post.date | date: "%Y-%m-%d" }} - [{{ post.title }}]({{ post.url | relative_url }})
+{% endfor %}
+{% endif %}
+
+**Other Links**
 
 * <a rel="me" href="https://macaw.social/@eoin">Mastodon</a>
 * [GitHub](https://github.com/ecoffey)
