@@ -3,7 +3,7 @@ layout: post
 title: Thoughts on Hiring
 ---
 
-This is an expansion of my [philosophy on hiring]({{ "/philosophy.html#hiring-and-interviewing" | relative_url }}). In my career I've done a good amount of interviewing as the interviewer, and have spent a lot of time working on improving questions, the execution of a given interview, and all the processes around asessing software engineers. What I've learned over time is that a good interviw process is explicit about what signals it is attempting to measure, uses standardized questions and paired interviews to reduce bias, and is clear with the candidate what to expect and what signals the process is looking for.
+The goal of any interview process is to derive meaningful signal about a candidate's ability to do the job. In my career I've done a good amount of interviewing as the interviewer, and have spent a lot of time working on improving questions, the execution of a given interview, and all the processes around assessing software engineers. What I've learned over time is that a good interview process is explicit about what signals it is attempting to measure, uses standardized questions and paired interviews to reduce bias, and is clear with the candidate what to expect and what signals the process is looking for.
 
 ## Signals
 

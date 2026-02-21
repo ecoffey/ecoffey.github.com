@@ -49,6 +49,4 @@ I've written about my experience with these tools in [Agentic Coding]({% post_ur
 
 ### Hiring and Interviewing
 
-The goal of any interview process is to derive meaningful signal about a candidates ability to do the job. I believe the best way to get that signal is approaching the process with empathy & compassion for candidates, being rigorous about what specific signal actually is important (e.g does your team honestly have to write a lot of hash map implementations from scratch?), and being transparent with the candidate about what signal you are looking for. A good process should be set up in such a way to help the candidate succeed and give them every opportunity to demonstrate the signal you care about.
-
-I've expanded on my thoughts about hiring in [Thoughts on Hiring]({% post_url 2026-02-16-thoughts-on-hiring %}).
+I've written about my thoughts on hiring in [Thoughts on Hiring]({% post_url 2026-02-16-thoughts-on-hiring %}).
